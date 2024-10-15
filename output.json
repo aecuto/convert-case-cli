@@ -1,0 +1,5 @@
+[
+  { "text": "fooBar", "caseType": "camelCase" },
+  { "text": "***", "caseType": "kebabCase" },
+  { "text": "", "caseType": "required" }
+]
