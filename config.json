@@ -1,9 +1,9 @@
 {
-  "defaultCaseType": "required",
-  "defaultSensitive": "required",
+  "defaultCaseType": "camelCase",
+  "defaultSensitive": "false",
   "inputs": [
     {
-      "text": "Foo Bar",
+      "text": "Foo aaaaaBar",
       "caseType": "camelCase"
     },
     {
